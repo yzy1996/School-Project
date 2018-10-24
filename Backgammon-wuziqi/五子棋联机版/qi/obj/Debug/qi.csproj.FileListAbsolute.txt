@@ -1,0 +1,50 @@
+c:\Users\Jerry\documents\visual studio 2015\Projects\wuziqi\qi\bin\Debug\qi.dll
+c:\Users\Jerry\documents\visual studio 2015\Projects\wuziqi\qi\bin\Debug\qi.pdb
+c:\Users\Jerry\documents\visual studio 2015\Projects\wuziqi\qi\obj\Debug\qi.csprojResolveAssemblyReference.cache
+c:\Users\Jerry\documents\visual studio 2015\Projects\wuziqi\qi\obj\Debug\qi.dll
+c:\Users\Jerry\documents\visual studio 2015\Projects\wuziqi\qi\obj\Debug\qi.pdb
+C:\Users\千\Desktop\wuziqi\qi\bin\Debug\qi.dll
+C:\Users\千\Desktop\wuziqi\qi\bin\Debug\qi.pdb
+C:\Users\千\Desktop\wuziqi\qi\obj\Debug\qi.csprojResolveAssemblyReference.cache
+C:\Users\千\Desktop\wuziqi\qi\obj\Debug\qi.dll
+C:\Users\千\Desktop\wuziqi\qi\obj\Debug\qi.pdb
+C:\Users\wo d pc\Desktop\wuziqi\qi\bin\Debug\qi.dll
+C:\Users\wo d pc\Desktop\wuziqi\qi\bin\Debug\qi.pdb
+C:\Users\wo d pc\Desktop\wuziqi\qi\obj\Debug\qi.csprojResolveAssemblyReference.cache
+C:\Users\wo d pc\Desktop\wuziqi\qi\obj\Debug\qi.dll
+C:\Users\wo d pc\Desktop\wuziqi\qi\obj\Debug\qi.pdb
+C:\Users\wo d pc\Desktop\wuziqitest\qi\bin\Debug\qi.dll
+C:\Users\wo d pc\Desktop\wuziqitest\qi\bin\Debug\qi.pdb
+C:\Users\wo d pc\Desktop\wuziqitest\qi\obj\Debug\qi.csprojResolveAssemblyReference.cache
+C:\Users\wo d pc\Desktop\wuziqitest\qi\obj\Debug\qi.dll
+C:\Users\wo d pc\Desktop\wuziqitest\qi\obj\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\qi\bin\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\qi\bin\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\qi\obj\Debug\qi.csprojResolveAssemblyReference.cache
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\qi\obj\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\qi\obj\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋\qi\bin\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋\qi\bin\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋\qi\obj\Debug\qi.csprojResolveAssemblyReference.cache
+E:\QQ\下载\408855422\FileRecv\五子棋\qi\obj\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋\qi\obj\Debug\qi.pdb
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\qi\bin\Debug\qi.dll
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\qi\bin\Debug\qi.pdb
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\qi\obj\Debug\qi.csprojResolveAssemblyReference.cache
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\qi\obj\Debug\qi.dll
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\qi\obj\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\qi\bin\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\qi\bin\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\qi\obj\Debug\qi.csprojResolveAssemblyReference.cache
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\qi\obj\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\qi\obj\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\qi\bin\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\qi\bin\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\qi\obj\Debug\qi.csprojResolveAssemblyReference.cache
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\qi\obj\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\qi\obj\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\qi\bin\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\qi\bin\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\qi\obj\Debug\qi.csprojResolveAssemblyReference.cache
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\qi\obj\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\qi\obj\Debug\qi.pdb

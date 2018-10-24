@@ -1,0 +1,10 @@
+c:\Users\Jerry\documents\visual studio 2015\Projects\wuziqi\qi\bin\Debug\qi.dll
+c:\Users\Jerry\documents\visual studio 2015\Projects\wuziqi\qi\bin\Debug\qi.pdb
+c:\Users\Jerry\documents\visual studio 2015\Projects\wuziqi\qi\obj\Debug\qi.csprojResolveAssemblyReference.cache
+c:\Users\Jerry\documents\visual studio 2015\Projects\wuziqi\qi\obj\Debug\qi.dll
+c:\Users\Jerry\documents\visual studio 2015\Projects\wuziqi\qi\obj\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\wuziqi\qi\bin\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\wuziqi\qi\bin\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\wuziqi\qi\obj\Debug\qi.csprojResolveAssemblyReference.cache
+E:\QQ\下载\408855422\FileRecv\wuziqi\qi\obj\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\wuziqi\qi\obj\Debug\qi.pdb

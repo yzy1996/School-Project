@@ -1,0 +1,22 @@
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\bin\Debug\wuziqi.exe.config
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\bin\Debug\wuziqi.exe
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\bin\Debug\wuziqi.pdb
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\obj\Debug\wuziqi.csprojResolveAssemblyReference.cache
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\obj\Debug\wuziqi.Form1.resources
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.Cache
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\obj\Debug\wuziqi.exe
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\obj\Debug\wuziqi.pdb
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\bin\Debug\qi.dll
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\bin\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\wuziqi\wuziqi\bin\Debug\wuziqi.exe.config
+E:\QQ\下载\408855422\FileRecv\wuziqi\wuziqi\obj\Debug\wuziqi.exe
+E:\QQ\下载\408855422\FileRecv\wuziqi\wuziqi\obj\Debug\wuziqi.pdb
+E:\QQ\下载\408855422\FileRecv\wuziqi\wuziqi\bin\Debug\wuziqi.exe
+E:\QQ\下载\408855422\FileRecv\wuziqi\wuziqi\bin\Debug\wuziqi.pdb
+E:\QQ\下载\408855422\FileRecv\wuziqi\wuziqi\bin\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\wuziqi\wuziqi\bin\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\wuziqi\wuziqi\obj\Debug\wuziqi.csprojResolveAssemblyReference.cache
+E:\QQ\下载\408855422\FileRecv\wuziqi\wuziqi\obj\Debug\wuziqi.Form1.resources
+E:\QQ\下载\408855422\FileRecv\wuziqi\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+E:\QQ\下载\408855422\FileRecv\wuziqi\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.Cache

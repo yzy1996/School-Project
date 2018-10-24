@@ -1,0 +1,10 @@
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\bin\Debug\MyImageView.exe
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\bin\Debug\MyImageView.pdb
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\MyImageView.Form1.resources
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\MyImageView.Properties.Resources.resources
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\MyImageView.exe
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\MyImageView.pdb
+c:\users\andrewchui\documents\visual studio 2010\Projects\MyImageView\MyImageView\obj\x86\Debug\MyImageView.Form2.resources

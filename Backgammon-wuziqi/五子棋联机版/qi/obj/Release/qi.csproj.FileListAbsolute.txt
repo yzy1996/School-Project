@@ -1,0 +1,15 @@
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\qi\bin\Release\qi.dll
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\qi\bin\Release\qi.pdb
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\qi\obj\Release\qi.csprojResolveAssemblyReference.cache
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\qi\obj\Release\qi.dll
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\qi\obj\Release\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\qi\bin\Release\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\qi\bin\Release\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\qi\obj\Release\qi.csprojResolveAssemblyReference.cache
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\qi\obj\Release\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\qi\obj\Release\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\qi\bin\Release\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\qi\bin\Release\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\qi\obj\Release\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\qi\obj\Release\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\qi\obj\Release\qi.csprojResolveAssemblyReference.cache

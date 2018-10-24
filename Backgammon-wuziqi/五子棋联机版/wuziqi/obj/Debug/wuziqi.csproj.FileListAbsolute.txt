@@ -1,0 +1,139 @@
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\bin\Debug\wuziqi.exe.config
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\bin\Debug\wuziqi.exe
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\bin\Debug\wuziqi.pdb
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\obj\Debug\wuziqi.csprojResolveAssemblyReference.cache
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\obj\Debug\wuziqi.Form1.resources
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.Cache
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\obj\Debug\wuziqi.exe
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\obj\Debug\wuziqi.pdb
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\bin\Debug\qi.dll
+c:\users\jerry\documents\visual studio 2015\Projects\wuziqi\wuziqi\bin\Debug\qi.pdb
+C:\Users\千\Desktop\wuziqi\wuziqi\bin\Debug\wuziqi.exe.config
+C:\Users\千\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.exe
+C:\Users\千\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.pdb
+C:\Users\千\Desktop\wuziqi\wuziqi\bin\Debug\wuziqi.exe
+C:\Users\千\Desktop\wuziqi\wuziqi\bin\Debug\wuziqi.pdb
+C:\Users\千\Desktop\wuziqi\wuziqi\bin\Debug\qi.dll
+C:\Users\千\Desktop\wuziqi\wuziqi\bin\Debug\qi.pdb
+C:\Users\千\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.csprojResolveAssemblyReference.cache
+C:\Users\千\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.Form1.resources
+C:\Users\千\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+C:\Users\千\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.Cache
+C:\Users\wo d pc\Documents\Tencent Files\786912649\FileRecv\wuziqi\wuziqi\bin\Debug\wuziqi.exe.config
+C:\Users\wo d pc\Documents\Tencent Files\786912649\FileRecv\wuziqi\wuziqi\obj\Debug\wuziqi.exe
+C:\Users\wo d pc\Documents\Tencent Files\786912649\FileRecv\wuziqi\wuziqi\obj\Debug\wuziqi.pdb
+C:\Users\wo d pc\Desktop\wuziqi\wuziqi\bin\Debug\wuziqi.exe.config
+C:\Users\wo d pc\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.exe
+C:\Users\wo d pc\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.pdb
+C:\Users\wo d pc\Desktop\wuziqi\wuziqi\bin\Debug\wuziqi.exe
+C:\Users\wo d pc\Desktop\wuziqi\wuziqi\bin\Debug\wuziqi.pdb
+C:\Users\wo d pc\Desktop\wuziqi\wuziqi\bin\Debug\qi.dll
+C:\Users\wo d pc\Desktop\wuziqi\wuziqi\bin\Debug\qi.pdb
+C:\Users\wo d pc\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.csprojResolveAssemblyReference.cache
+C:\Users\wo d pc\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.Form1.resources
+C:\Users\wo d pc\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+C:\Users\wo d pc\Desktop\wuziqi\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.Cache
+C:\Users\wo d pc\Desktop\编程\wuziqitest\wuziqi\bin\Debug\wuziqi.exe.config
+C:\Users\wo d pc\Desktop\编程\wuziqitest\wuziqi\obj\Debug\wuziqi.exe
+C:\Users\wo d pc\Desktop\编程\wuziqitest\wuziqi\obj\Debug\wuziqi.pdb
+C:\Users\wo d pc\Desktop\编程\wuziqitest\wuziqi\bin\Debug\wuziqi.exe
+C:\Users\wo d pc\Desktop\编程\wuziqitest\wuziqi\bin\Debug\wuziqi.pdb
+C:\Users\wo d pc\Desktop\编程\wuziqitest\wuziqi\bin\Debug\qi.dll
+C:\Users\wo d pc\Desktop\编程\wuziqitest\wuziqi\bin\Debug\qi.pdb
+C:\Users\wo d pc\Desktop\编程\wuziqitest\wuziqi\obj\Debug\wuziqi.csprojResolveAssemblyReference.cache
+C:\Users\wo d pc\Desktop\编程\wuziqitest\wuziqi\obj\Debug\wuziqi.Form1.resources
+C:\Users\wo d pc\Desktop\编程\wuziqitest\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+C:\Users\wo d pc\Desktop\编程\wuziqitest\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.Cache
+C:\Users\wo d pc\Desktop\wuziqitest\wuziqi\bin\Debug\wuziqi.exe.config
+C:\Users\wo d pc\Desktop\wuziqitest\wuziqi\obj\Debug\wuziqi.exe
+C:\Users\wo d pc\Desktop\wuziqitest\wuziqi\obj\Debug\wuziqi.pdb
+C:\Users\wo d pc\Desktop\wuziqitest\wuziqi\bin\Debug\wuziqi.exe
+C:\Users\wo d pc\Desktop\wuziqitest\wuziqi\bin\Debug\wuziqi.pdb
+C:\Users\wo d pc\Desktop\wuziqitest\wuziqi\bin\Debug\qi.dll
+C:\Users\wo d pc\Desktop\wuziqitest\wuziqi\bin\Debug\qi.pdb
+C:\Users\wo d pc\Desktop\wuziqitest\wuziqi\obj\Debug\wuziqi.csprojResolveAssemblyReference.cache
+C:\Users\wo d pc\Desktop\wuziqitest\wuziqi\obj\Debug\wuziqi.Form1.resources
+C:\Users\wo d pc\Desktop\wuziqitest\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+C:\Users\wo d pc\Desktop\wuziqitest\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.Cache
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\wuziqi\bin\Debug\wuziqi.exe.config
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\wuziqi\bin\Debug\wuziqi.exe
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\wuziqi\bin\Debug\wuziqi.pdb
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\wuziqi\bin\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\wuziqi\bin\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\wuziqi\obj\Debug\wuziqi.csprojResolveAssemblyReference.cache
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\wuziqi\obj\Debug\wuziqi.Form1.resources
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.Cache
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\wuziqi\obj\Debug\wuziqi.exe
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\wuziqi\obj\Debug\wuziqi.pdb
+E:\QQ\下载\408855422\FileRecv\wuziqitest(7)\wuziqi\obj\Debug\wuziqi.Form2.resources
+E:\QQ\下载\408855422\FileRecv\五子棋\wuziqi\bin\Debug\wuziqi.exe.config
+E:\QQ\下载\408855422\FileRecv\五子棋\wuziqi\bin\Debug\wuziqi.exe
+E:\QQ\下载\408855422\FileRecv\五子棋\wuziqi\bin\Debug\wuziqi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋\wuziqi\bin\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋\wuziqi\bin\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋\wuziqi\obj\Debug\wuziqi.Form1.resources
+E:\QQ\下载\408855422\FileRecv\五子棋\wuziqi\obj\Debug\wuziqi.Form2.resources
+E:\QQ\下载\408855422\FileRecv\五子棋\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+E:\QQ\下载\408855422\FileRecv\五子棋\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.Cache
+E:\QQ\下载\408855422\FileRecv\五子棋\wuziqi\obj\Debug\wuziqi.exe
+E:\QQ\下载\408855422\FileRecv\五子棋\wuziqi\obj\Debug\wuziqi.pdb
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\wuziqi\bin\Debug\wuziqi.exe.config
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\wuziqi\bin\Debug\wuziqi.exe
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\wuziqi\bin\Debug\wuziqi.pdb
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\wuziqi\bin\Debug\qi.dll
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\wuziqi\bin\Debug\qi.pdb
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\wuziqi\obj\Debug\wuziqi.csprojResolveAssemblyReference.cache
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\wuziqi\obj\Debug\wuziqi.Form1.resources
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\wuziqi\obj\Debug\wuziqi.Form2.resources
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.Cache
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\wuziqi\obj\Debug\wuziqi.exe
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋最新\五子棋\wuziqi\obj\Debug\wuziqi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\wuziqi\bin\Debug\wuziqi.exe.config
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\wuziqi\bin\Debug\wuziqi.exe
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\wuziqi\bin\Debug\wuziqi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\wuziqi\bin\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\wuziqi\bin\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\wuziqi\obj\Debug\wuziqi.Form1.resources
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\wuziqi\obj\Debug\wuziqi.Form2.resources
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.Cache
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\wuziqi\obj\Debug\wuziqi.exe
+E:\QQ\下载\408855422\FileRecv\五子棋最新12.6\wuziqi\obj\Debug\wuziqi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\wuziqi\bin\Debug\wuziqi.exe.config
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\wuziqi\bin\Debug\wuziqi.exe
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\wuziqi\bin\Debug\wuziqi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\wuziqi\bin\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\wuziqi\bin\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\wuziqi\obj\Debug\wuziqi.csprojResolveAssemblyReference.cache
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\wuziqi\obj\Debug\wuziqi.Form1.resources
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\wuziqi\obj\Debug\wuziqi.Form2.resources
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.Cache
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\wuziqi\obj\Debug\wuziqi.exe
+E:\QQ\下载\408855422\FileRecv\五子棋联机版\wuziqi\obj\Debug\wuziqi.pdb
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋联机版\wuziqi\bin\Debug\wuziqi.exe.config
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋联机版\wuziqi\bin\Debug\wuziqi.exe
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋联机版\wuziqi\bin\Debug\wuziqi.pdb
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋联机版\wuziqi\bin\Debug\qi.dll
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋联机版\wuziqi\bin\Debug\qi.pdb
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋联机版\wuziqi\obj\Debug\wuziqi.csprojResolveAssemblyReference.cache
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋联机版\wuziqi\obj\Debug\wuziqi.Form1.resources
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋联机版\wuziqi\obj\Debug\wuziqi.Form2.resources
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋联机版\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋联机版\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.Cache
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋联机版\wuziqi\obj\Debug\wuziqi.exe
+D:\Users\lenovo\Documents\Visual Studio 2015\Projects\五子棋联机版\wuziqi\obj\Debug\wuziqi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\wuziqi\bin\Debug\wuziqi.exe.config
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\wuziqi\bin\Debug\wuziqi.exe
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\wuziqi\bin\Debug\wuziqi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\wuziqi\bin\Debug\qi.dll
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\wuziqi\bin\Debug\qi.pdb
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\wuziqi\obj\Debug\wuziqi.Form1.resources
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\wuziqi\obj\Debug\wuziqi.Form2.resources
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\wuziqi\obj\Debug\wuziqi.Properties.Resources.resources
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\wuziqi\obj\Debug\wuziqi.csproj.GenerateResource.Cache
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\wuziqi\obj\Debug\wuziqi.exe
+E:\QQ\下载\408855422\FileRecv\五子棋联机版(release)\wuziqi\obj\Debug\wuziqi.pdb

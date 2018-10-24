@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyImageView", "MyImageView\MyImageView.csproj", "{77C82D75-BF82-4F49-8C15-6A7F8627C22C}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "西交看图王Setup", "西交看图王Setup\西交看图王Setup.isproj", "{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x64 = CD_ROM|x64
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		DVD-5|x64 = DVD-5|x64
+		DVD-5|x86 = DVD-5|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		SingleImage|x64 = SingleImage|x64
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.CD_ROM|x64.ActiveCfg = Release|x64
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.CD_ROM|x64.Build.0 = Release|x64
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.CD_ROM|x86.ActiveCfg = Release|x86
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.CD_ROM|x86.Build.0 = Release|x86
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.Debug|x64.ActiveCfg = Debug|x64
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.Debug|x64.Build.0 = Debug|x64
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.Debug|x86.ActiveCfg = Debug|x86
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.Debug|x86.Build.0 = Debug|x86
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.DVD-5|x64.ActiveCfg = Debug|x64
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.DVD-5|x64.Build.0 = Debug|x64
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.DVD-5|x86.ActiveCfg = Debug|x86
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.DVD-5|x86.Build.0 = Debug|x86
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.Release|x64.ActiveCfg = Release|x64
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.Release|x64.Build.0 = Release|x64
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.Release|x86.ActiveCfg = Release|x64
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.Release|x86.Build.0 = Release|x64
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.SingleImage|x64.ActiveCfg = Release|x64
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.SingleImage|x64.Build.0 = Release|x64
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.SingleImage|x86.ActiveCfg = Release|x86
+		{77C82D75-BF82-4F49-8C15-6A7F8627C22C}.SingleImage|x86.Build.0 = Release|x86
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.CD_ROM|x64.ActiveCfg = CD_ROM
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.CD_ROM|x64.Build.0 = CD_ROM
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.CD_ROM|x86.ActiveCfg = CD_ROM
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.CD_ROM|x86.Build.0 = CD_ROM
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.Debug|x64.ActiveCfg = DVD-5
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.Debug|x64.Build.0 = DVD-5
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.Debug|x86.ActiveCfg = DVD-5
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.Debug|x86.Build.0 = DVD-5
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.DVD-5|x64.ActiveCfg = DVD-5
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.DVD-5|x64.Build.0 = DVD-5
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.DVD-5|x86.ActiveCfg = DVD-5
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.DVD-5|x86.Build.0 = DVD-5
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.Release|x64.ActiveCfg = SingleImage
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.Release|x64.Build.0 = SingleImage
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.Release|x86.ActiveCfg = SingleImage
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.Release|x86.Build.0 = SingleImage
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.SingleImage|x64.ActiveCfg = SingleImage
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.SingleImage|x64.Build.0 = SingleImage
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.SingleImage|x86.ActiveCfg = SingleImage
+		{25A607E8-DE7C-48EB-AE9C-E601F60FD4AC}.SingleImage|x86.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
