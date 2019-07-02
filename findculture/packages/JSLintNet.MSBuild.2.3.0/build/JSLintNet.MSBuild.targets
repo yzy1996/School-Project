@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <UsingTask AssemblyFile="$(MSBuildThisFileDirectory)..\tools\JSLintNet.dll" TaskName="JSLintTask" />
+
+  <PropertyGroup>
+    <JSLintNetSourceDirectory Condition="'$(JSLintNetSourceDirectory)' == ''">$(MSBuildProjectDirectory)</JSLintNetSourceDirectory>
+    <JSLintNetConfiguration Condition="'$(JSLintNetConfiguration)' == ''">$(Configuration)</JSLintNetConfiguration>
+
+    <BuildDependsOn>
+      JSLintNet;
+      $(BuildDependsOn);
+    </BuildDependsOn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <JSLintNetSourceFiles Condition="'@(JSLintNetSourceFiles)' == ''" Include="@(Content)" />
+  </ItemGroup>
+
+  <Target Name="JSLintNet">
+    <JSLintTask
+      SourceDirectory="$(JSLintNetSourceDirectory)"
+      SourceFiles="@(JSLintNetSourceFiles)"
+      ReportFile="$(JSLintNetReportFile)"
+      SettingsFile="$(JSLintNetSettingsFile)"
+      Configuration="$(JSLintNetConfiguration)" />
+  </Target>
+</Project>

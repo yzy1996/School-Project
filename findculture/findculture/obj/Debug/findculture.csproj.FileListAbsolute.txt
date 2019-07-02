@@ -1,0 +1,106 @@
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Bot Application.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Bot Application.pdb
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Autofac.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Chronic.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.Bot.Builder.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.Bot.Connector.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Newtonsoft.Json.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\System.Net.Http.Formatting.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\System.Web.Http.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\System.Web.Http.WebHost.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Autofac.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.Bot.Builder.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.Bot.Connector.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Newtonsoft.Json.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\System.Net.Http.Formatting.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\System.Web.Http.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\System.Web.Http.WebHost.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\obj\Debug\findculture.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\obj\Debug\Bot Application.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\obj\Debug\Bot Application.pdb
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\obj\Debug\findculture.csprojResolveAssemblyReference.cache
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Bot Application.dll.config
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\findculture\findculture\findculture\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Bot Application.dll.config
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Bot Application.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Bot Application.pdb
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Autofac.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Chronic.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.Bot.Builder.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.Bot.Connector.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Newtonsoft.Json.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\System.Net.Http.Formatting.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\System.Web.Http.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\System.Web.Http.WebHost.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Autofac.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.Bot.Builder.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.Bot.Connector.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\Newtonsoft.Json.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\System.Net.Http.Formatting.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\System.Web.Http.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\System.Web.Http.WebHost.xml
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\obj\Debug\findculture.csprojResolveAssemblyReference.cache
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\obj\Debug\findculture.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\obj\Debug\Bot Application.dll
+C:\Users\Jerry\Desktop\新建文件夹\findculture\findculture\obj\Debug\Bot Application.pdb
